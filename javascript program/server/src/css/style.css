@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  color: black;
+  font-size: 20px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+}
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  text-align: center;
+
+
+}
+input {
+  width: 100%;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.go {
+  background-color: #red; /* Black */
+  border: 1px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 800;
+
+}
